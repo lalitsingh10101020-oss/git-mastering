@@ -1,1 +1,1 @@
-console.log("this is for practice only");
+console.log("this is for practice");
